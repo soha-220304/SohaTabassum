@@ -19,4 +19,5 @@ Hi, I’m Soha Tabassum Shaikh Danka 👋
 ✨ Interests: Problem Solving, Data Science, Web Apps, and AI Tools
 
 📫 How to reach me
-LinkedIN:https://www.linkedin.com/in/soha-tabassum-shaikh-danka/
+🔗 LinkedIN:https://www.linkedin.com/in/soha-tabassum-shaikh-danka/
+📧 Email: sohatabassumshaikhdanka22@gmail.com
